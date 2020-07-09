@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 - :tropical_fish: But I still eat the occassional fish
 - :tiger2: My Chinese star sign is tiger :tiger:
 - :earth_africa: And I love our beautiful planet and wish we'd treat it better
-- :seat: This was a list of completley random stuff, just like this seat
+- :seat: This was a list of completely random stuff, just like this seat
 - :mailbox: You can [reach me via my blog](https://dusted.codes/hire#contact)
