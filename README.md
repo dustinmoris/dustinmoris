@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- :grinning: My name is Dustin...
+- :keyboard: I code in C#, F# and Go
+- :ok_hand: A little bit of frontend too
+- :rocket: I maintain a few OSS projects which you can see below...
+- :computer: I also love blogging on :arrow_right: [dusted.codes](https://dusted.codes) :arrow_left:
+- :coffee: I'm massively addicted to coffee
+- :cow: And stopped eating meat in :two::zero::one::eight:
+- :tropical_fish: But I still have the occassional fish
+- :tiger2: My Chinese star sign is tiger :tiger:
+- :earth_africa: I love our beautiful planet and wish we'd treat it a lot better
+- :seat: This was a list of completley random stuff, just like this seat
+- :mailbox: You can [reach me via my blog](https://dusted.codes/hire#contact)
