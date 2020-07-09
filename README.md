@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - :computer: I also love blogging on :arrow_right: [dusted.codes](https://dusted.codes) :arrow_left:
 - :coffee: I'm massively addicted to coffee
 - :cow: And stopped eating meat in :two::zero::one::eight:
-- :tropical_fish: But I still eat the occassional fish
+- :tropical_fish: But I still eat the occasional fish
 - :tiger2: My Chinese star sign is tiger :tiger:
 - :earth_africa: And I love our beautiful planet and wish we'd treat it better
 - :seat: This was a list of completley random stuff, just like this seat
