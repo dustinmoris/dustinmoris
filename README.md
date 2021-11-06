@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 - :seat: This was a list of completely random stuff, just like this seat
 - :mailbox: You can [reach me via my blog](https://dusted.codes/hire#contact)
 
-Some of the web stuff I build:
+### Some of the web stuff I build:
 
-- [Top 10 London (London food & leisure blog)](https://top10.london)
-- [BuildStats.info (Build charts and package badges)](https://buildstats.info)
-- [Giraffe (F# web framework)](https://giraffe.wiki)
-- [.NET Ketchup (.NET news aggregator)](https://dotnetketchup.com)
-- [.NET Advent Calendar](https://dotnet.christmas)
-- [Go Advent Calendar](https://golang.christmas)
+- :uk: [Top 10 London (London food & leisure blog)](https://top10.london)
+- :chart_with_upwards_trend: [BuildStats.info (Build charts and package badges)](https://buildstats.info)
+- :giraffe: [Giraffe (F# web framework)](https://giraffe.wiki)
+- :tomato: [.NET Ketchup (.NET news aggregator)](https://dotnetketchup.com)
+- :christmas_tree: [.NET Advent Calendar](https://dotnet.christmas)
+- :mx_claus: [Go Advent Calendar](https://golang.christmas)
