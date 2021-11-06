@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - :grinning: My name is Dustin...
 - :keyboard: I code in C#, F# and Go
-- :ok_hand: A little bit of frontend too
+- :ok_hand: A little bit of JavaScript and frontend languages too
 - :rocket: I maintain a few OSS projects which you can see below...
 - :computer: I also love blogging on :arrow_right: [dusted.codes](https://dusted.codes) :arrow_left:
 - :coffee: I'm massively addicted to coffee
@@ -27,3 +27,12 @@ Here are some ideas to get you started:
 - :earth_africa: And I love our beautiful planet and wish we'd treat it better
 - :seat: This was a list of completely random stuff, just like this seat
 - :mailbox: You can [reach me via my blog](https://dusted.codes/hire#contact)
+
+Some of the web stuff I build:
+
+- [Top 10 London (London food & leisure blog)](https://top10.london)
+- [BuildStats.info (Build charts and package badges)](https://buildstats.info)
+- [Giraffe (F# web framework)](https://giraffe.wiki)
+- [.NET Ketchup (.NET news aggregator)](https://dotnetketchup.com)
+- [.NET Advent Calendar](https://dotnet.christmas)
+- [Go Advent Calendar](https://golang.christmas)
