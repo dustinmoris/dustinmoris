@@ -30,9 +30,10 @@ Here are some ideas to get you started:
 
 ### Some of the web stuff I build:
 
-- :uk: [Top 10 London (London food & leisure blog)](https://top10.london)
-- :chart_with_upwards_trend: [BuildStats.info (Build charts and package badges)](https://buildstats.info)
+- :keyboard: [Keyboard Jobs - A job board for software developers, geeks and cyborgs](https://keyboardjobs.com)
 - :giraffe: [Giraffe (F# web framework)](https://giraffe.wiki)
 - :tomato: [.NET Ketchup (.NET news aggregator)](https://dotnetketchup.com)
 - :christmas_tree: [.NET Advent Calendar](https://dotnet.christmas)
 - :mx_claus: [Go Advent Calendar](https://golang.christmas)
+- :uk: [Top 10 London (London food & leisure blog)](https://top10.london)
+- :chart_with_upwards_trend: [BuildStats.info (Build charts and package badges)](https://buildstats.info)
