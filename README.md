@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ### Currently building:
 
-<img src="https://cdn.msgdrop.io/images/msgdrop-opengraph-2.png" alt="Msgdrop banner" style="max-width: 500px;">
+<img src="https://cdn.msgdrop.io/images/msgdrop-opengraph-2.png" alt="Msgdrop banner" style="width: 500px; max-width: 500px;">
 
 [Msgdrop](https://msgdrop.io) - Test Email, Webhooks and 2FA!
 
