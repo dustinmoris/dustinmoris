@@ -28,6 +28,22 @@ Here are some ideas to get you started:
 - :seat: This was a list of completely random stuff, just like this seat
 - :mailbox: You can [reach me via my blog](https://dusted.codes/hire#contact)
 
+### Currently building:
+
+[Msgdrop](https://msgdrop.io) - Test Email, Webhooks and 2FA!
+
+Msgdrop is a RESTful API built for efficient Email, Webhook, and two-factor authentication (2FA/MFA) testing.
+
+Things you can do:
+
+- Disposable email addresses from an API
+- Accessing an inbox through an API
+- Webhook URLs for testing
+- Enrol and generate 2FA codes from an API
+
+Msgdrop is designed to be a simple, fast, and reliable one-stop solution for automation testing disjointed user journeys in an innovative way.
+
+
 ### Some of the web stuff I build:
 
 - :keyboard: [Keyboard Jobs - A job board for software developers, geeks and cyborgs](https://keyboardjobs.com)
