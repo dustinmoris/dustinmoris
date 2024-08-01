@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 
 ### Currently building:
 
+![Msgdrop Banner](https://cdn.msgdrop.io/images/msgdrop-opengraph-2.png)
+
 [Msgdrop](https://msgdrop.io) - Test Email, Webhooks and 2FA!
 
 Msgdrop is a RESTful API built for efficient Email, Webhook, and two-factor authentication (2FA/MFA) testing.
